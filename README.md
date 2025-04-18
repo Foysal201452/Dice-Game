@@ -4,7 +4,7 @@
 
 A fun, interactive dice game for two players, built using HTML, CSS, and JavaScript.
 
-![Pig Game Screenshot](./screenshot.png) <!-- Optional: add a screenshot image of your game -->
+ <!-- Optional: add a screenshot image of your game -->
 
 ## 🕹️ How to Play
 
@@ -29,5 +29,4 @@ A fun, interactive dice game for two players, built using HTML, CSS, and JavaScr
 - **CSS** – Styling and layout
 - **JavaScript** – Game logic and interactivity
 
-## 📁 Project Structure
 
